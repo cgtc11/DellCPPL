@@ -1,0 +1,1 @@
+AfterEffectsの CPPL～CPPL 間にあるゴミのようなデータを削除するツール
